@@ -51,11 +51,11 @@ Client: ```npm run lint-client```
 Server: ```npm run lint-server```
 
 ## Note
-
 It's simple starter pack to use in future projects. I have plan to build more boilerplates (e.g React+Redux) on other branches.
-**TODO :**
-[ ] Add Redux
-[ ] Production mode: minify and uglify bundle files
+TODO :
+* [ ] Add Redux
+* [ ] Production mode: minify and uglify bundle files
+
 ---
-##### Thanks for watching and feel free to use this in your project!
+#### Thanks for watching and feel free to use this in your project!
 
